@@ -1,7 +1,0 @@
-D:\C#\WorkToAcademy\WorkToAcademy\obj\Debug\WorkToAcademy.csproj.AssemblyReference.cache
-D:\C#\WorkToAcademy\WorkToAcademy\obj\Debug\WorkToAcademy.csproj.CoreCompileInputs.cache
-D:\C#\WorkToAcademy\WorkToAcademy\bin\Debug\WorkToAcademy.exe.config
-D:\C#\WorkToAcademy\WorkToAcademy\bin\Debug\WorkToAcademy.exe
-D:\C#\WorkToAcademy\WorkToAcademy\bin\Debug\WorkToAcademy.pdb
-D:\C#\WorkToAcademy\WorkToAcademy\obj\Debug\WorkToAcademy.exe
-D:\C#\WorkToAcademy\WorkToAcademy\obj\Debug\WorkToAcademy.pdb
