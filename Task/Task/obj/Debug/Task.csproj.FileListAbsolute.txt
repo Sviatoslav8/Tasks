@@ -1,0 +1,15 @@
+D:\C#\Task\Task\bin\Debug\Task.exe.config
+D:\C#\Task\Task\bin\Debug\Task.exe
+D:\C#\Task\Task\bin\Debug\Task.pdb
+D:\C#\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\C#\Task\Task\obj\Debug\MainWindow.g.cs
+D:\C#\Task\Task\obj\Debug\App.g.cs
+D:\C#\Task\Task\obj\Debug\Task_MarkupCompile.cache
+D:\C#\Task\Task\obj\Debug\Task_MarkupCompile.lref
+D:\C#\Task\Task\obj\Debug\MainWindow.baml
+D:\C#\Task\Task\obj\Debug\Task.g.resources
+D:\C#\Task\Task\obj\Debug\Task.Properties.Resources.resources
+D:\C#\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+D:\C#\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\C#\Task\Task\obj\Debug\Task.exe
+D:\C#\Task\Task\obj\Debug\Task.pdb

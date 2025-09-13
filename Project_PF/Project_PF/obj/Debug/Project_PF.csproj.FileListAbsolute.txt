@@ -1,0 +1,15 @@
+D:\C#\Project_PF\Project_PF\bin\Debug\Project_PF.exe.config
+D:\C#\Project_PF\Project_PF\bin\Debug\Project_PF.exe
+D:\C#\Project_PF\Project_PF\bin\Debug\Project_PF.pdb
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.csproj.AssemblyReference.cache
+D:\C#\Project_PF\Project_PF\obj\Debug\MainWindow.g.cs
+D:\C#\Project_PF\Project_PF\obj\Debug\App.g.cs
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF_MarkupCompile.cache
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF_MarkupCompile.lref
+D:\C#\Project_PF\Project_PF\obj\Debug\MainWindow.baml
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.g.resources
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.Properties.Resources.resources
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.csproj.GenerateResource.cache
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.csproj.CoreCompileInputs.cache
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.exe
+D:\C#\Project_PF\Project_PF\obj\Debug\Project_PF.pdb

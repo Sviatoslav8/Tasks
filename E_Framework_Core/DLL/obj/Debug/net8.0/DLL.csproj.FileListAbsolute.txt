@@ -1,0 +1,12 @@
+D:\C#\E_Framework_Core\DLL\bin\Debug\net8.0\DLL.deps.json
+D:\C#\E_Framework_Core\DLL\bin\Debug\net8.0\DLL.dll
+D:\C#\E_Framework_Core\DLL\bin\Debug\net8.0\DLL.pdb
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.csproj.AssemblyReference.cache
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.AssemblyInfoInputs.cache
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.AssemblyInfo.cs
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.csproj.CoreCompileInputs.cache
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.dll
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\refint\DLL.dll
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\DLL.pdb
+D:\C#\E_Framework_Core\DLL\obj\Debug\net8.0\ref\DLL.dll

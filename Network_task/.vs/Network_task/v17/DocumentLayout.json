@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Network_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|d:\\c#\\network_task\\network_task\\held-items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F0D889-5F82-4D9F-AB0A-0B791E5C4084}|Network_task\\Network_task.csproj|solutionrelative:network_task\\held-items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Item.cs",
+              "RelativeDocumentMoniker": "Network_task\\Item.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Item.cs",
+              "RelativeToolTip": "Network_task\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:52:27.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Held-Items.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Held-Items.cs",
+              "RelativeDocumentMoniker": "Network_task\\Held-Items.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Held-Items.cs",
+              "RelativeToolTip": "Network_task\\Held-Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:52:11.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Stats.cs",
+              "RelativeDocumentMoniker": "Network_task\\Stats.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Stats.cs",
+              "RelativeToolTip": "Network_task\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:47:04.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stat.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Stat.cs",
+              "RelativeDocumentMoniker": "Network_task\\Stat.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Stat.cs",
+              "RelativeToolTip": "Network_task\\Stat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:49:03.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Species.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Species.cs",
+              "RelativeDocumentMoniker": "Network_task\\Species.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Species.cs",
+              "RelativeToolTip": "Network_task\\Species.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:40:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Network_task\\Pokemon.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Pokemon.cs",
+              "RelativeToolTip": "Network_task\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:54:42.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Network_task\\Network_task\\Program.cs",
+              "RelativeDocumentMoniker": "Network_task\\Program.cs",
+              "ToolTip": "D:\\C#\\Network_task\\Network_task\\Program.cs",
+              "RelativeToolTip": "Network_task\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T18:30:28.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

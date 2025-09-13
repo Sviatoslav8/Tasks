@@ -1,0 +1,14 @@
+D:\C#\Network_task\Network_task\bin\Debug\net8.0\Network_task.exe
+D:\C#\Network_task\Network_task\bin\Debug\net8.0\Network_task.deps.json
+D:\C#\Network_task\Network_task\bin\Debug\net8.0\Network_task.runtimeconfig.json
+D:\C#\Network_task\Network_task\bin\Debug\net8.0\Network_task.dll
+D:\C#\Network_task\Network_task\bin\Debug\net8.0\Network_task.pdb
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.AssemblyInfoInputs.cache
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.AssemblyInfo.cs
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.csproj.CoreCompileInputs.cache
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.dll
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\refint\Network_task.dll
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.pdb
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\Network_task.genruntimeconfig.cache
+D:\C#\Network_task\Network_task\obj\Debug\net8.0\ref\Network_task.dll

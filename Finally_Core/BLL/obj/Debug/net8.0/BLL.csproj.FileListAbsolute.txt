@@ -1,0 +1,15 @@
+D:\C#\Finally_Core\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\C#\Finally_Core\BLL\bin\Debug\net8.0\BLL.dll
+D:\C#\Finally_Core\BLL\bin\Debug\net8.0\BLL.pdb
+D:\C#\Finally_Core\BLL\bin\Debug\net8.0\DLL.dll
+D:\C#\Finally_Core\BLL\bin\Debug\net8.0\DLL.pdb
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.dll
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\BLL.pdb
+D:\C#\Finally_Core\BLL\obj\Debug\net8.0\ref\BLL.dll

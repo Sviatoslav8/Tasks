@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C35F3F14-21EB-4AEB-BEA4-06CB3BA273D2}|MyProject\\MyProject.csproj|d:\\c#\\myproject\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35F3F14-21EB-4AEB-BEA4-06CB3BA273D2}|MyProject\\MyProject.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35F3F14-21EB-4AEB-BEA4-06CB3BA273D2}|MyProject\\MyProject.csproj|D:\\C#\\MyProject\\myproject\\models\\userrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35F3F14-21EB-4AEB-BEA4-06CB3BA273D2}|MyProject\\MyProject.csproj|solutionrelative:myproject\\models\\userrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35F3F14-21EB-4AEB-BEA4-06CB3BA273D2}|MyProject\\MyProject.csproj|D:\\C#\\MyProject\\myproject\\models\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35F3F14-21EB-4AEB-BEA4-06CB3BA273D2}|MyProject\\MyProject.csproj|solutionrelative:myproject\\models\\userlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRating.cs",
+              "DocumentMoniker": "D:\\C#\\MyProject\\MyProject\\Models\\UserRating.cs",
+              "RelativeDocumentMoniker": "MyProject\\Models\\UserRating.cs",
+              "ToolTip": "D:\\C#\\MyProject\\MyProject\\Models\\UserRating.cs",
+              "RelativeToolTip": "MyProject\\Models\\UserRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:09:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLog.cs",
+              "DocumentMoniker": "D:\\C#\\MyProject\\MyProject\\Models\\UserLog.cs",
+              "RelativeDocumentMoniker": "MyProject\\Models\\UserLog.cs",
+              "ToolTip": "D:\\C#\\MyProject\\MyProject\\Models\\UserLog.cs",
+              "RelativeToolTip": "MyProject\\Models\\UserLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:23:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\MyProject\\MyProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject\\Program.cs",
+              "ToolTip": "D:\\C#\\MyProject\\MyProject\\Program.cs",
+              "RelativeToolTip": "MyProject\\Program.cs",
+              "ViewState": "AgIAAIkCAAAAAAAAAAAIwIwCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:13:16.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

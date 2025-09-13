@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Project_PF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C3ADD-B7D1-4A55-9EFD-177874FF7B38}|Project_PF\\Project_PF.csproj|d:\\c#\\project_pf\\project_pf\\otherwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD8C3ADD-B7D1-4A55-9EFD-177874FF7B38}|Project_PF\\Project_PF.csproj|solutionrelative:project_pf\\otherwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C3ADD-B7D1-4A55-9EFD-177874FF7B38}|Project_PF\\Project_PF.csproj|d:\\c#\\project_pf\\project_pf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CD8C3ADD-B7D1-4A55-9EFD-177874FF7B38}|Project_PF\\Project_PF.csproj|solutionrelative:project_pf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8C3ADD-B7D1-4A55-9EFD-177874FF7B38}|Project_PF\\Project_PF.csproj|d:\\c#\\project_pf\\project_pf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8C3ADD-B7D1-4A55-9EFD-177874FF7B38}|Project_PF\\Project_PF.csproj|solutionrelative:project_pf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OtherWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\Project_PF\\Project_PF\\OtherWindow.xaml",
+              "RelativeDocumentMoniker": "Project_PF\\OtherWindow.xaml",
+              "ToolTip": "D:\\C#\\Project_PF\\Project_PF\\OtherWindow.xaml",
+              "RelativeToolTip": "Project_PF\\OtherWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T17:41:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\Project_PF\\Project_PF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project_PF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\Project_PF\\Project_PF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Project_PF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:42:14.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\Project_PF\\Project_PF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Project_PF\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\Project_PF\\Project_PF\\MainWindow.xaml",
+              "RelativeToolTip": "Project_PF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T16:08:38.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
